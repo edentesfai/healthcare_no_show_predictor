@@ -1,0 +1,54 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pkl.zip
+*.pkl.gz
+*.pkl.bz2
+
+# virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data & model outputs
+#data/*.csv
+#data/*.xlsx
+#data/*.txt
+#models/*.joblib
+#models/*.pkl
+#models/*.png
+models/*.pdf
+#models/*.json
+
+# logs & checkpoints
+*.log
+*.out
+*.tmp
+*.bak
+*.swp
+*.ipynb_checkpoints/
+checkpoints/
+runs/
+
+# environment & config
+.env
+.env.*
+*.ini
+*.cfg
+
+# OS or temp files
+*.tar
+*.zip
+*.gz
+*.rar
+*.7z
