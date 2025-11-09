@@ -3,10 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.pkl
-*.pkl.zip
-*.pkl.gz
-*.pkl.bz2
+#*.pkl
 
 # virtual environment
 venv/
